@@ -9,3 +9,10 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 The welcome page provides an overview of the website. Further down the website, the user has options to filter out the data with five different criterias. Depending on the need, multiple filters can be selected at the same time. 
 
 ![deliverable1](https://github.com/AadiJan/UFOs/blob/0e9d0a9d03ffd3300eda5051b26fc62a368561c7/Deliverable1.PNG) 
+
+
+## Summary 
+The website has been created that is quite appealing, easy to use and has multiple filters to select from. The drawback in my opinion is that the data (or sample) is too small to validate the comments observed by the people. More similar sightings data would be ideally required to provide more valid output. 
+Recommendations:
+* Collect larger data set from different region 
+* Use a filter by duration
