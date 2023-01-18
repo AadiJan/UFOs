@@ -5,3 +5,6 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 
 ## HTML Page:
 ![html page](https://github.com/AadiJan/UFOs/blob/3eef03193bfd8c9499714687ebe94ae45e3216f5/Html_page.PNG) 
+
+The welcome page provides an overview of the website. Further down the website, the user has options to filter out the data with five different criterias. Depending on the need, multiple filters can be selected at the same time. 
+
